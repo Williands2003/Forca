@@ -87,7 +87,7 @@ while len(letras_digitadas) < 6:
 
     # Verifica se a letra já foi digitada
     if letra in letras_digitadas:
-        print("Você já digitou essa letra. Tente novamente.")
+        print("Você já digitou essa letra! Tente novamente.")
         continue
 
     # Adiciona a letra às letras digitadas
