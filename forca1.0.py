@@ -1,11 +1,8 @@
 #faça uma forca(a que eu fiz na aula)
 #--------------------------------
-#professor deu a ideia de usar condições em vez da variavel de tentativas maxima
-
-
 
 # Palavra que o jogador precisa adivinhar
-palavra = "formiga"
+palavra = "vasco"
 
 # Número de tentativas permitidas
 tentativas = 6
